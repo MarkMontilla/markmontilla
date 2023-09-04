@@ -1,4 +1,4 @@
-<img src = "markmontilla/banner-photo.png">
+<img src = "banner-photo.png">
 <h1 align="center">Hi 👋, I'm Mark Montilla</h1>
 <h3 align="center">A passionate aspiring front end dev in PH</h3>
 
