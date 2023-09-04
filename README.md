@@ -1,6 +1,6 @@
 <img src = "banner-photo.png">
 <h1 align="center">Hi 👋, I'm Mark Montilla</h1>
-<h3 align="center">A passionate aspiring front end dev in PH</h3>
+<h3 align="center"> Aspiring Front End developer in PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markmontilla&label=Profile%20views&color=0e75b6&style=flat" alt="markmontilla" /> </p>
 
