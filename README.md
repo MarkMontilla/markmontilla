@@ -1,4 +1,4 @@
-
+<img src ="banner-photo.png">
 <h1 align="center">Hi 👋, I'm Mark Montilla</h1>
 <h3 align="center"> Aspiring Front End developer in PH</h3>
 
