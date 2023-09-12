@@ -22,9 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markmontilla&show_icons=true&locale=en" alt="markmontilla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markmontilla&" alt="markmontilla" /></p>
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
