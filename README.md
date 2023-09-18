@@ -1,7 +1,7 @@
 <img src ="banner-photo.png">
 
 <h1 align="center">Welcome to my workspace</h1>
-<h3 align="center">On the process of learning new languages. </h3>
+<h3 align="center">In the process of learning new languages. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markmontilla&label=Profile%20views&color=0e75b6&style=flat" alt="markmontilla" /> </p>
 
